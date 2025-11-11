@@ -1,0 +1,7 @@
+print("devloped by VIRUS")
+print("welcome to channel nickname generator")
+nickname = input ("what your nickname? : \n")
+channelType = input ("what your channel talk about? : \n")
+print("######################")
+print(f"you can name it '{channelType} with {nickname}' hah? do you like it!")
+print("######################")
